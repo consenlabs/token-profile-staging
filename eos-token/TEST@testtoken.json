@@ -1,0 +1,8 @@
+{
+    "symbol": "TEST",
+    "account_name": "testtoken",
+    "overview": {
+        "en": "EOS TEST provides data center and application platform for transformation from 'Internet plus 'to 'block chain plus'."
+    },
+    "website": "http://testtoken.com"
+}
